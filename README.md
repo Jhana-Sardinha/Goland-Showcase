@@ -78,29 +78,35 @@ Uma plataforma que oferece **templates prontos e personalizáveis** de landing p
 
 ---
 
-## 🏗️ Arquitetura do Projeto
+## 🏗️ **Arquitetura do Projeto**
 
 ```
-goland/
-├── templates/          # Templates HTML
-│   ├── base.html
-│   ├── home.html
-│   ├── produtos/
-│   ├── contato.html
-│   └── sobre.html
-├── static/             # Arquivos estáticos
-│   ├── css/
-│   ├── js/
-│   └── images/
-├── core/               # App principal
-│   ├── models.py       # Modelos de dados
-│   ├── views.py        # Lógica de visualização
-│   ├── urls.py         # Rotas
-│   └── forms.py        # Formulários
-├── produtos/           # App de produtos
-├── manage.py
-├── requirements.txt
-└── README.md
+GolandTCC/
+├── core/                    # App principal Django
+│   ├── migrations/          # Migrações do banco de dados
+│   ├── static/              # Arquivos estáticos (CSS, JS, imagens)
+│   ├── templates/           # Templates HTML
+│   ├── templatetags/        # Template tags customizadas
+│   ├── admin.py            # Configuração do Django Admin
+│   ├── apps.py             # Configuração da aplicação
+│   ├── models.py           # Modelos de dados
+│   ├── views.py            # Lógica de visualização
+│   ├── urls.py             # Rotas da aplicação
+│   └── tests.py            # Testes unitários
+├── goland/                  # Configurações do projeto
+│   ├── settings.py         # Configurações gerais
+│   ├── urls.py             # URLs principais
+│   └── wsgi.py             # Configuração WSGI
+├── goland_tcc/             # Configurações do projeto
+│   ├── include/            # Bibliotecas Python
+│   ├── Lib/                # Dependências
+│   └── Scripts/            # Scripts de execução
+├── media/                   # Arquivos de mídia (uploads)
+│   ├── categorias/         # Imagens de categorias
+│   └── produtos/           # Imagens de produtos
+├── db.sqlite3              # Banco de dados SQLite
+├── manage.py               # Script de gerenciamento Django
+└── requirements.txt        # Dependências do projeto
 ```
 
 ---
@@ -328,3 +334,4 @@ Este projeto foi desenvolvido para fins acadêmicos e está disponível sob a li
 **💚 Desenvolvido com dedicação pela equipe GoLand**
 
 *"O maior inimigo do conhecimento não é a ignorância, é a ilusão do conhecimento." – Stephen Hawking*
+
