@@ -138,6 +138,8 @@ GolandTCC/
 
 ## 🚀 Como Executar o Projeto
 
+> ⚠️ **Nota:** O código-fonte está disponível mediante solicitação para fins de avaliação profissional. Entre em contato através do [email] ou [LinkedIn].
+
 ### Pré-requisitos
 ```bash
 Python 3.8+
@@ -314,6 +316,7 @@ Este projeto foi desenvolvido como **Trabalho de Conclusão de Curso (TCC)** do 
 **💚 Desenvolvido com dedicação pela equipe GoLand**
 
 *"O maior inimigo do conhecimento não é a ignorância, é a ilusão do conhecimento." – Stephen Hawking*
+
 
 
 
