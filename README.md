@@ -240,7 +240,7 @@ Projeto desenvolvido por estudantes do **Ensino Médio Integrado ao Técnico em 
 
 **Orientador:** Prof. Jonas José Oliveira Duzo
 
-**Duração:** 9 meses (2024-2025)
+**Duração:** 9 meses (mar-nov/2025)
 
 ---
 
@@ -292,33 +292,13 @@ Este projeto foi desenvolvido como **Trabalho de Conclusão de Curso (TCC)** do 
 
 ---
 
-## 🤝 Como Contribuir
-
-Contribuições são bem-vindas! Este projeto é aberto para melhorias.
-
-1. Fork o projeto
-2. Crie uma branch (`git checkout -b feature/MinhaFeature`)
-3. Commit suas mudanças (`git commit -m 'Add: MinhaFeature'`)
-4. Push para a branch (`git push origin feature/MinhaFeature`)
-5. Abra um Pull Request
-
----
-
-## 📄 Licença
-
-Este projeto foi desenvolvido para fins acadêmicos e está disponível sob a licença MIT.
-
----
-
 ## 📞 Contato
 
 **Jhanaina Sardinha**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhana-sardinha)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JhanaSardinha)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhana.sardinha@email.com)
-
-**Site do Projeto:** [www.goland.com.br](http://www.goland.com.br)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vtjhana@gmail.com)
 
 ---
 
@@ -334,5 +314,6 @@ Este projeto foi desenvolvido para fins acadêmicos e está disponível sob a li
 **💚 Desenvolvido com dedicação pela equipe GoLand**
 
 *"O maior inimigo do conhecimento não é a ignorância, é a ilusão do conhecimento." – Stephen Hawking*
+
 
 
