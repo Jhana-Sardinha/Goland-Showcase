@@ -1,6 +1,6 @@
 # 🚀 GoLand - Plataforma de Templates para Landing Pages
 
-![GoLand Logo](./screenshots/logo.png)
+![GoLand Logo](./screenshots/GoLand-logo.webp)
 
 **Democratizando a criação de landing pages profissionais**
 
@@ -334,4 +334,5 @@ Este projeto foi desenvolvido para fins acadêmicos e está disponível sob a li
 **💚 Desenvolvido com dedicação pela equipe GoLand**
 
 *"O maior inimigo do conhecimento não é a ignorância, é a ilusão do conhecimento." – Stephen Hawking*
+
 
