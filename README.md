@@ -10,7 +10,7 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-[Demo](#) • [Documentação](./docs/TCC_GoLand.pdf) • [Contato](#contato)
+[Demo](#) • [Documentação](./docs/TCC_GoLand.pdf) • [Contato](#-contato)
 
 ---
 
@@ -316,6 +316,7 @@ Este projeto foi desenvolvido como **Trabalho de Conclusão de Curso (TCC)** do 
 **💚 Desenvolvido com dedicação pela equipe GoLand**
 
 *"O maior inimigo do conhecimento não é a ignorância, é a ilusão do conhecimento." – Stephen Hawking*
+
 
 
 
